@@ -9,3 +9,5 @@ This is the second paragraph for my paper.
 I will be using dataset 2 for my study.
 
 I will be using 4 variables for my study.
+
+I will be using smoking variables for my study.
